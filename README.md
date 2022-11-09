@@ -1,2 +1,0 @@
-# AnalogClock
-# AnalogClock
